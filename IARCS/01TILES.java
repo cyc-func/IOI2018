@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class TILES01
+class 01TILES   //////////// pick a different name
 {
 	public static void main(String args[]) throws IOException
 	{
