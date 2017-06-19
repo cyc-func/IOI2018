@@ -1,7 +1,7 @@
 /*
-ID: yashary1
+ID: beatsbysuprimoforallofmypeoplenegroesandlatinoes
 LANG: JAVA
-TASK: beatsbysuprimoforallofmypeoplenegroesandlatinoes
+TASK: skidesign
 */
 
 import java.io.*;
