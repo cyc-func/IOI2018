@@ -30,7 +30,7 @@ do
 
 	for j in $(seq 0 $lenTest)
 	do
-		if [ ${testAns[j]} -ne ${correctAns[j]} ]
+		if [ ${testAns[j]} != ${correctAns[j]} ]
 		then
 			echo -e "Task $i: Wrong answer \t\t Time elapsed: ${DIFF}"
 			isCor=0
